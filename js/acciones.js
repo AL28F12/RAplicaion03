@@ -18,4 +18,8 @@
 	$('#Triceratops').tap(function (e) {
 		$.mobile.navigate( "#Trice" );
 	});
+	
+	$('#Acercade').tap(function (e) {
+		$.mobile.navigate( "#Acercade" );
+	});
 });//ready
